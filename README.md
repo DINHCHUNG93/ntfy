@@ -1,3 +1,21 @@
+
+Ủa, gì vậy?... Gửi thông báo đến điện thoại hoặc máy tính chỉ bằng những yêu cầu HTTP đơn giản. 😲
+
+Dịch vụ thông báo miễn phí, mã nguồn mở này cho phép bạn gửi thông báo đẩy tức thì từ script, máy chủ, ứng dụng, cron job hoặc tác nhân AI chỉ bằng một lệnh gọi HTTP đơn giản.
+
+Phù hợp cho:
+
+- Các script chạy trong thời gian dài
+- Thông báo khi tác nhân AI hoàn thành công việc
+- Quy trình CI/CD
+- Giám sát máy chủ
+- Triển khai và sao lưu
+- Các tác vụ tự động hóa cùng nhiều trường hợp khác
+
+Nếu thường xuyên tự động hóa công việc, đây chắc chắn là một công cụ đáng để trải nghi
+
+
+
 <div align="center" markdown="1">
 <sup>Special thanks to:</sup>
 <br>
